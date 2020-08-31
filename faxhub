@@ -67,7 +67,7 @@ FrixonScriptsCredits.BorderSizePixel = 0
 FrixonScriptsCredits.Position = UDim2.new(0.0131147541, 0, 0, 0)
 FrixonScriptsCredits.Size = UDim2.new(0, 123, 0, 33)
 FrixonScriptsCredits.Font = Enum.Font.SourceSans
-FrixonScriptsCredits.Text = "By RedoGaming#7191"
+FrixonScriptsCredits.Text = "By 3mxley#5723"
 FrixonScriptsCredits.TextColor3 = Color3.fromRGB(255, 255, 255)
 FrixonScriptsCredits.TextSize = 14.000
 
